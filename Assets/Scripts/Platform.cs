@@ -13,7 +13,6 @@ public class Platform : MonoBehaviour
     private float moveDistance = 3f;
     private float minHeight = 1f;
     private float maxHeight = 5f;
-    private float height = 2f;
 
     private Vector3 startPosition;
     private bool growing = true;
